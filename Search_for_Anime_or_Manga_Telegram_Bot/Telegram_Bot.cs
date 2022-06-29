@@ -233,6 +233,7 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                     }
                     else
                     {
+                        LastText = "";
                         await Get_Anime_info_by_anime_ID(botClient, message, Convert.ToInt32(ID));
                     }                    
                 }
@@ -261,6 +262,7 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                     }
                     else
                     {
+                        LastText = "";
                         await Get_Manga_info_by_anime_ID(botClient, message, Convert.ToInt32(ID));
                     }                    
                 }
@@ -289,6 +291,7 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                     }
                     else
                     {
+                        LastText = "";
                         await Delete_one_user_favorites_from_Data_Base(botClient, message, Convert.ToInt32(ID));
                     }
                 }
@@ -339,6 +342,7 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                     }
                     else
                     {
+                        LastText = "";
                         Title_ID = Convert.ToInt32(ID);
                         await Post_chosen_title_to_DB(botClient, message, Title_ID, "anime");
                     }
@@ -368,6 +372,7 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                     }
                     else
                     {
+                        LastText = "";
                         Title_ID = Convert.ToInt32(ID);
                         await Post_chosen_title_to_DB(botClient, message, Title_ID, "manga");
                     }
