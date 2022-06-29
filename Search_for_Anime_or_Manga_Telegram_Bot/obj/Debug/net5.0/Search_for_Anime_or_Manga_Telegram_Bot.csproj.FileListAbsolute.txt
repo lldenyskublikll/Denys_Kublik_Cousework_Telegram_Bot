@@ -1,0 +1,42 @@
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.exe
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.deps.json
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.runtimeconfig.json
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.runtimeconfig.dev.json
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\ref\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.pdb
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.csproj.AssemblyReference.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.AssemblyInfoInputs.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.AssemblyInfo.cs
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.csproj.CoreCompileInputs.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.csproj.CopyComplete
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\ref\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.pdb
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.genruntimeconfig.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.exe
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.deps.json
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.runtimeconfig.json
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.runtimeconfig.dev.json
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\ref\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.pdb
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Telegram.Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\bin\Debug\net5.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.csproj.AssemblyReference.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.AssemblyInfoInputs.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.AssemblyInfo.cs
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.csproj.CoreCompileInputs.cache
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.csproj.CopyComplete
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\ref\Search_for_Anime_or_Manga_Telegram_Bot.dll
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.pdb
+C:\Users\ddkub\OneDrive\Рабочий стол\Курсач for Git\Search_for_Anime_or_Manga_Telegram_Bot\obj\Debug\net5.0\Search_for_Anime_or_Manga_Telegram_Bot.genruntimeconfig.cache
