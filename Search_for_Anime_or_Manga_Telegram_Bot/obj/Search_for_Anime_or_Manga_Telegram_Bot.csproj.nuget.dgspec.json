@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddkub\\OneDrive\\Рабочий стол\\Курсач for Git\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj": {}
+    "C:\\Users\\ddkub\\OneDrive\\Документы\\GitHub\\Denys_Kublik_Cousework_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddkub\\OneDrive\\Рабочий стол\\Курсач for Git\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj": {
+    "C:\\Users\\ddkub\\OneDrive\\Документы\\GitHub\\Denys_Kublik_Cousework_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddkub\\OneDrive\\Рабочий стол\\Курсач for Git\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj",
+        "projectUniqueName": "C:\\Users\\ddkub\\OneDrive\\Документы\\GitHub\\Denys_Kublik_Cousework_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj",
         "projectName": "Search_for_Anime_or_Manga_Telegram_Bot",
-        "projectPath": "C:\\Users\\ddkub\\OneDrive\\Рабочий стол\\Курсач for Git\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj",
+        "projectPath": "C:\\Users\\ddkub\\OneDrive\\Документы\\GitHub\\Denys_Kublik_Cousework_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot.csproj",
         "packagesPath": "C:\\Users\\ddkub\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddkub\\OneDrive\\Рабочий стол\\Курсач for Git\\Search_for_Anime_or_Manga_Telegram_Bot\\obj\\",
+        "outputPath": "C:\\Users\\ddkub\\OneDrive\\Документы\\GitHub\\Denys_Kublik_Cousework_Telegram_Bot\\Search_for_Anime_or_Manga_Telegram_Bot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ddkub\\AppData\\Roaming\\NuGet\\NuGet.Config",

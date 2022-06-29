@@ -402,6 +402,7 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
         }
         #endregion
 
+
         #region Manga_by_name_search
         // Пошук манги, назва якої схожа на введене користувачем слово або набір слів
         private async Task Search_for_Manga_by_name(ITelegramBotClient botClient, Message message, string Q)
