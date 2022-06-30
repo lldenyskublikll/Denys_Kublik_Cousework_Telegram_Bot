@@ -178,42 +178,54 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
             if (message.Text == "/search_by_name")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+
                 await Send_Choose_Search_by_name_Object(botClient, message);
+
                 return;
             }
             else
             if (message.Text == "/get_info_by_id")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+
                 await Send_Choose_Search_by_ID_Object(botClient, message);
+
                 return;
             }
             else
             if (message.Text == "/get_ranking")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+
                 await Send_Choose_Ranking(botClient, message);
+
                 return;
             }
             else
             if (message.Text == "/check_list")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+
                 await Check_user_favourites_in_Data_Base(botClient, message);
+
                 return;
             }                    
             else
             if (message.Text == "/delete_title")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+
                 await Send_to_get_title_ID_for_deletion(botClient, message);
+
                 return;
             }
             else
             if (message.Text == "/delete_all")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+
                 await Delete_All_user_favorites_from_Data_Base(botClient, message);
+
                 return;
             }            
             else
@@ -309,6 +321,9 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                 string Q = message.Text;
 
                 await Search_for_Anime_by_name(botClient, message, Q);
+
+                LastText = "";
+                return;
             }
             else
             if (LastText == "Enter manga name:")
@@ -316,11 +331,16 @@ namespace Search_for_Anime_or_Manga_Telegram_Bot
                 string Q = message.Text;
 
                 await Search_for_Manga_by_name(botClient, message, Q);
+
+                LastText = "";
+
+                return;
             }
             else
             if (message.Text == "/add_item_to_list")
             {
                 await botClient.DeleteMessageAsync(message.Chat.Id, message.MessageId);
+                
                 await Send_choose_title_type_for_add(botClient, message);
 
                 return;
